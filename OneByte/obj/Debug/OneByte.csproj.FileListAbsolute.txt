@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\OneByte\OneByte\bin\Debug\OneByte.exe.config
+C:\Users\Christian\source\repos\OneByte\OneByte\bin\Debug\OneByte.exe
+C:\Users\Christian\source\repos\OneByte\OneByte\bin\Debug\OneByte.pdb
+C:\Users\Christian\source\repos\OneByte\OneByte\obj\Debug\OneByte.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\OneByte\OneByte\obj\Debug\OneByte.Form1.resources
+C:\Users\Christian\source\repos\OneByte\OneByte\obj\Debug\OneByte.Properties.Resources.resources
+C:\Users\Christian\source\repos\OneByte\OneByte\obj\Debug\OneByte.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\OneByte\OneByte\obj\Debug\OneByte.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\OneByte\OneByte\obj\Debug\OneByte.exe
+C:\Users\Christian\source\repos\OneByte\OneByte\obj\Debug\OneByte.pdb
